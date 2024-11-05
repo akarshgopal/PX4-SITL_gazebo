@@ -1606,7 +1606,7 @@
 
 
     <plugin name="front_left_wing" filename="libLiftDragPlugin.so">
-      <a0>0.01984281113</a0>
+      <a0>0.05236</a0>
       <cla>5.4</cla>
       <cda>0.6417112299</cda>
       <cma>0.0</cma>
@@ -1615,7 +1615,7 @@
       <cda_stall>-0.9233984055</cda_stall>
       <cma_stall>0</cma_stall>
       <cp>0 0.6 0</cp>
-      <area>0.18</area>
+      <area>0.25</area>
       <air_density>1.2041</air_density>
       <forward>1 0 0</forward>
       <upward>0 0 1</upward>
@@ -1629,7 +1629,7 @@
     </plugin>
 
     <plugin name="front_right_wing" filename="libLiftDragPlugin.so">
-      <a0>0.01984281113</a0>
+      <a0>0.05236</a0>
       <cla>5.4</cla>
       <cda>0.6417112299</cda>
       <cma>0.0</cma>
@@ -1638,7 +1638,7 @@
       <cda_stall>-0.9233984055</cda_stall>
       <cma_stall>0</cma_stall>
       <cp>0 -0.6 0.0</cp>
-      <area>0.18</area>
+      <area>0.25</area>
       <air_density>1.2041</air_density>
       <forward>1 0 0</forward>
       <upward>0 0 1</upward>
@@ -1651,7 +1651,7 @@
       <windSubTopic>world_wind</windSubTopic>
     </plugin>
     <plugin name="rear_left_wing" filename="libLiftDragPlugin.so">
-      <a0>0.01984281113</a0>
+      <a0>0.05236</a0>
       <cla>5.4</cla>
       <cda>0.6417112299</cda>
       <cma>0.0</cma>
@@ -1660,7 +1660,7 @@
       <cda_stall>-0.9233984055</cda_stall>
       <cma_stall>0</cma_stall>
       <cp>0 0.875 0</cp>
-      <area>0.21</area>
+      <area>0.3</area>
       <air_density>1.2041</air_density>
       <forward>1 0 0</forward>
       <upward>0 0 1</upward>
@@ -1673,7 +1673,7 @@
       <windSubTopic>world_wind</windSubTopic>
     </plugin>
     <plugin name="rear_right_wing" filename="libLiftDragPlugin.so">
-      <a0>0.01984281113</a0>
+      <a0>0.05236</a0>
       <cla>5.4</cla>
       <cda>0.6417112299</cda>
       <cma>0.0</cma>
@@ -1682,7 +1682,7 @@
       <cda_stall>-0.9233984055</cda_stall>
       <cma_stall>0</cma_stall>
       <cp>0 -0.875 0</cp>
-      <area>0.21</area>
+      <area>0.3</area>
       <air_density>1.2041</air_density>
       <forward>1 0 0</forward>
       <upward>0 0 1</upward>
