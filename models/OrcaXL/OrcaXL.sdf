@@ -229,7 +229,7 @@
     </joint>
 
     <link name='motor_0'>
-      <pose>1.05 1.2 0.35 0 0 0</pose>
+      <pose>1.05 1.249 0.35 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -284,7 +284,7 @@
     </joint>
 
     <link name='rotor_0'>
-      <pose>1.05 1.2 0.4 0 0 0</pose>
+      <pose>1.05 1.249 0.4 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -318,7 +318,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_cw.dae</uri>
           </mesh>
         </geometry>
@@ -352,7 +352,7 @@
 
 
     <link name='motor_1'>
-      <pose>1.05 0.6 0.35 0 0 0</pose>
+      <pose>1.05 0.644 0.35 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -407,7 +407,7 @@
     </joint>
 
     <link name='rotor_1'>
-      <pose>1.05 0.6 0.4 0 0 0</pose>
+      <pose>1.05 0.644 0.4 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -441,7 +441,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
@@ -475,7 +475,7 @@
 
 
     <link name='motor_2'>
-      <pose>1.05 -0.6 0.35 0 0 0</pose>
+      <pose>1.05 -0.644 0.35 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -530,7 +530,7 @@
     </joint>
 
     <link name='rotor_2'>
-      <pose>1.05 -0.6 0.4 0 0 0</pose>
+      <pose>1.05 -0.644 0.4 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -564,7 +564,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_cw.dae</uri>
           </mesh>
         </geometry>
@@ -597,7 +597,7 @@
     </joint>
 
     <link name='motor_3'>
-      <pose>1.05 -1.2 0.35 0 0 0</pose>
+      <pose>1.05 -1.249 0.35 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -652,7 +652,7 @@
     </joint>
 
     <link name='rotor_3'>
-      <pose>1.05 -1.2 0.4 0 0 0</pose>
+      <pose>1.05 -1.249 0.4 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -686,7 +686,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
@@ -968,7 +968,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_cw.dae</uri>
           </mesh>
         </geometry>
@@ -1002,7 +1002,7 @@
 
 
     <link name='motor_5'>
-      <pose>-0.7 0.6 0.85 0 0</pose>
+      <pose>-0.7 0.895 0.85 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -1057,7 +1057,7 @@
     </joint>
 
     <link name='rotor_5'>
-      <pose>-0.7 0.6 0.9 0 0 0</pose>
+      <pose>-0.7 0.895 0.9 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -1091,7 +1091,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
@@ -1125,7 +1125,7 @@
 
 
     <link name='motor_6'>
-      <pose>-0.7 -0.6 0.85 0 0</pose>
+      <pose>-0.7 -0.895 0.85 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.05</mass>
@@ -1180,7 +1180,7 @@
     </joint>
 
     <link name='rotor_6'>
-      <pose>-0.7 -0.6 0.9 0 0 0</pose>
+      <pose>-0.7 -0.895 0.9 0 0 0</pose>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
         <mass>0.005</mass>
@@ -1214,7 +1214,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_cw.dae</uri>
           </mesh>
         </geometry>
@@ -1336,7 +1336,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <scale>1.4 1.4 1</scale>
+            <scale>1.6 1.6 1</scale>
             <uri>model://OrcaXL/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
