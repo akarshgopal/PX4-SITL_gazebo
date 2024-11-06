@@ -1608,7 +1608,7 @@
     <plugin name="front_left_wing" filename="libLiftDragPlugin.so">
       <a0>0.05236</a0>
       <cla>5.4</cla>
-      <cda>0.6417112299</cda>
+      <cda>0.54</cda>
       <cma>0.0</cma>
       <alpha_stall>0.3391428111</alpha_stall>
       <cla_stall>0</cla_stall>
@@ -1631,7 +1631,7 @@
     <plugin name="front_right_wing" filename="libLiftDragPlugin.so">
       <a0>0.05236</a0>
       <cla>5.4</cla>
-      <cda>0.6417112299</cda>
+      <cda>0.54</cda>
       <cma>0.0</cma>
       <alpha_stall>0.3391428111</alpha_stall>
       <cla_stall>0</cla_stall>
@@ -1653,7 +1653,7 @@
     <plugin name="rear_left_wing" filename="libLiftDragPlugin.so">
       <a0>0.05236</a0>
       <cla>5.4</cla>
-      <cda>0.6417112299</cda>
+      <cda>0.54</cda>
       <cma>0.0</cma>
       <alpha_stall>0.3391428111</alpha_stall>
       <cla_stall>0</cla_stall>
@@ -1675,7 +1675,7 @@
     <plugin name="rear_right_wing" filename="libLiftDragPlugin.so">
       <a0>0.05236</a0>
       <cla>5.4</cla>
-      <cda>0.6417112299</cda>
+      <cda>0.54</cda>
       <cma>0.0</cma>
       <alpha_stall>0.3391428111</alpha_stall>
       <cla_stall>0</cla_stall>
@@ -1697,7 +1697,7 @@
     <plugin name="rudder" filename="libLiftDragPlugin.so">
       <a0>0.0</a0>
       <cla>4.752798721</cla>
-      <cda>1.6417112299</cda>
+      <cda>0.54</cda>
       <cma>0.0</cma>
       <alpha_stall>0.3391428111</alpha_stall>
       <cla_stall>-3.85</cla_stall>
